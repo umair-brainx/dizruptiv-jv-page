@@ -1,0 +1,32 @@
+Index: termsAndCon.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- termsAndCon.html	(revision 4cdd8b444cf7412aac786404bb41ea9ebaadda50)
++++ termsAndCon.html	(date 1531738726232)
+@@ -35,11 +35,11 @@
+         <h1 class="term-heading text-left pt-5 pb-5 black-heading">Terms & Conditions</h1>
+ 
+         <p class="p-in-white text-left">
+-            Please always adhere to these <a class="red-link" href="#">FTC guidelines</a> when promoting our products
++            Please always adhere to these <a class="red-link" href="https://www.ftc.gov/os/2009/10/091005endorsementguidesfnnotice.pdf">FTC guidelines</a> when promoting our products
+             and services. <br> <br>
+ 
+ 
+-            You must agree to our <a class="red-link" href="#">affiliate agreement</a> before promoting Dizruptiv. <br>
++            You must agree to our <a class="red-link" href="https://www.continuityu.comaffiliate_terms.php/">affiliate agreement</a> before promoting Dizruptiv. <br>
+             <br>
+ 
+             We reserve the right to change or modify the contest at any time. We also reserve the right to check the
+@@ -47,10 +47,6 @@
+             on launch, then that is evidently going to be a little suspicious. You must send 'qualified' leads to
+             qualify for prizes. <br> <br>
+ 
+-            We reserve the right to change or modify the contest at any time. We also reserve the right to check the
+-            validity and quality of leads that you send. In other words, if you send 10,000 leads and only make 1 sale
+-            on launch, then that is evidently going to be a little suspicious. You must send 'qualified' leads to
+-            qualify for prizes. <br> <br>
+ 
+             In addition, affiliates must not use the following promotional methods if approved for this affiliate
+             program. Doing so will result termination from the affiliate program and forfeiting any outstanding

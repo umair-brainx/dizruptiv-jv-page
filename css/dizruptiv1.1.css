@@ -1,0 +1,502 @@
+
+.commission, .what-more, .signup, .lead-prize, .launch, .evergreen, .footer {
+    background-color: #2a2a2a;
+}
+.light-bg{
+    background-image: url("../img/header/lights .png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.plus-img{
+    width: 50px;
+}
+
+@media only screen and (max-width: 600px) {
+    .red-heading {
+        font-size: 35px !important;
+    }
+    .contact-heading{
+        padding-top: 25% !important;
+    }
+    .mobile-widthNinety{
+        width: 90% !important;
+        margin: auto;
+    }
+
+    .signup-btn {
+        font-size: 16px !important;
+        width: 194.6px !important;
+        height: 43.8px !important;
+        border-radius: 73px;
+    }
+
+    .iDizruptiv {
+        margin: 0px !important;
+    }
+
+    .like-minded {
+        margin: 0px !important;
+    }
+
+    .what-svg svg {
+        width: 40% !important;
+    }
+
+    .commission-video {
+        width: 100% !important;
+    }
+
+    .what, .lead-challenge {
+        background-color: #ebebeb;
+        padding-top: 8%;
+        padding-bottom: 1px;
+    }
+
+    .black-heading {
+
+        font-size: 35px !important;
+        line-height: 1.14 !important;
+        letter-spacing: 1.8 !important;
+    }
+
+    .iDizruptiv, .like-minded {
+        border-radius: 0px !important;
+    }
+
+    .mobile-padding-zero {
+        padding: 0px !important;
+    }
+
+    .like-minded-content, .iDizruptiv-content {
+        width: 90%;
+        margin: auto;
+    }
+
+    .mobile-text-center {
+        text-align: center !important;
+    }
+
+    .full-width-mobile {
+        width: 100% !important;
+        margin: auto;
+    }
+
+    .mobile-widthEighty {
+        width: 80% !important;
+        margin: auto;
+    }
+
+    .message {
+        padding-top: 15% !important;
+    }
+
+    .mobile-paddingLR-zero {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+
+    .mobile-black-heading {
+        color: #000000 !important;
+    }
+
+    .terms {
+        order: 1 !important;
+        display: block !important;
+        text-align: center !important;
+        float: none !important;
+    }
+
+    .copyright {
+        padding-top: 5px !important;
+        display: block !important;
+        order: 2 !important;
+        text-align: center !important;
+    }
+
+    .plus-svg svg {
+        width: 60px;
+        fill: white !important;
+    }
+
+    .email-here {
+        padding: 10px !important;
+    }
+
+    .attention-p{
+        line-height: normal !important;
+    }
+
+    .attention-p{
+        padding-top: 20px;
+    }
+}
+
+.dizButton {
+    display: inline-block;
+    background: #fe0000;
+    cursor: pointer;
+    font-weight: 700 !important;
+    letter-spacing: 0.15em;
+    padding: 0.5625em 2.5em;
+    text-align: center;
+    border-radius: 6.25em;
+    transition: background-color 0.3s;
+    border: 0;
+    position: center !important;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    color: #ffffff;
+}
+
+.widthEighty {
+    width: 80%;
+    margin: auto;
+}
+
+.red-heading {
+    font-family: Montserrat;
+    font-size: 46px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.09;
+    letter-spacing: 4.6px;
+    text-align: center;
+    color: #fe0000;
+}
+
+.black-heading {
+    font-family: Montserrat;
+    font-size: 42px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.57;
+    letter-spacing: 2.1px;
+    text-align: left;
+    color: #262525;
+}
+
+.p-in-white {
+    opacity: 0.8;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: center;
+    color: #262525;
+}
+
+.p-in-black {
+    opacity: 0.8;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+
+.attention-p {
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 4.44;
+    letter-spacing: 1.8px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.commission-offer {
+    color: #fe0000;
+}
+
+.signup-btn {
+    font-size: 35px;
+    margin-top: 6%;
+    margin-bottom: -18px;
+    height: 85px;
+    width: 390px;
+    box-shadow: 0px 25px 30px 0 rgba(254, 0, 0, 0.28);
+}
+.signup-btn:focus{
+    outline: none;
+}
+a:focus{
+    outline: none;
+}
+
+.commission-video {
+    padding-top: 3%;
+    width: 60%;
+    margin: auto;
+}
+
+.what-heading {
+    margin-top: 10%;
+}
+
+.what-second-p {
+    padding-bottom: 5%;
+}
+
+.iDizruptiv, .like-minded {
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0px 20px 30px 0 rgba(40, 40, 40, 0.18);
+}
+
+.program-benifit {
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fe0000;
+}
+
+.plus-svg svg {
+    width: 60px;
+}
+
+.widthSixty {
+    width: 60%;
+    margin: auto;
+}
+
+.widthSeventy {
+    width: 70%;
+    margin: auto;
+}
+
+.widthNinety {
+    width: 90%;
+    margin: auto;
+}
+
+.message-body {
+    padding-top: 5%;
+}
+
+.message {
+    padding-top: 5%;
+}
+
+.dot {
+    height: 14px;
+    width: 14px;
+    border: solid 0.5px #a2a2a2;
+    border-radius: 50%;
+    display: inline-block;
+    opacity: 0.8;
+    background-color: #262525;
+}
+
+.msg-img {
+    padding-top: 30px;
+    width: 120px;
+    height: 120px;
+}
+
+.icon-box {
+    border-radius: 5px;
+    box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.08);
+}
+
+.icon-des {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.75;
+    letter-spacing: 0.8px;
+    text-align: center;
+    color: #000000;
+    padding-bottom: 10%;
+    padding-top: 5%;
+}
+
+.message-icons {
+    padding-top: 8%;
+    padding-bottom: 5%;
+}
+
+.highlights {
+    background-color: #2a2a2a;
+}
+
+.highlights-box, .prize-list-box {
+    margin-top: 5%;
+    background-color: #3b3b3b;
+}
+
+.num-bullets {
+    font-weight: bold;
+    color: white;
+    border-radius: 50%;
+    padding: 4px 10px 4px 10px;
+    background-color: #fe0000;
+}
+
+.dot-bullets {
+    display: block;
+    color: #fe0000;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    background-color: #fe0000;
+}
+
+.payment {
+    padding-top: 7%;
+    background-color: #ebebeb;
+}
+
+.price-box h2 {
+    padding-top: 15%;
+    padding-bottom: 50%;
+}
+
+.price-box p {
+    padding-bottom: 30%;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.17;
+    letter-spacing: normal;
+    text-align: center;
+    color: #292929;
+}
+
+.lead-challenge-heading {
+    padding-top: 15%;
+}
+
+.lead-stage {
+    border-radius: 5px;
+    background-color: #ffffff;
+    box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.05);
+}
+
+.lead-stage-heading {
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.27;
+    letter-spacing: 1.1px;
+    text-align: center;
+    color: #fe0000;
+}
+
+.prize-list-box-heading {
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fe0000;
+}
+
+.lead-prize {
+    padding-bottom: 7%;
+}
+
+.pre-launch {
+    background-color: #ebebeb;
+}
+
+.pre-launch-subheading {
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.27;
+    letter-spacing: 1.1px;
+    text-align: center;
+    color: #fe0000;
+}
+
+.email-here {
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+
+.contact-heading {
+    padding-top: 10%;
+}
+
+.copyright {
+    font-family: Montserrat;
+    font-size: 11px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.55;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #ffffff;
+    opacity: 0.4;
+    display: inline-block;
+    float: left;
+    order: 1;
+}
+
+.terms {
+    order: 2;
+    font-family: Montserrat;
+    font-size: 11px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.55;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #ffffff;
+    display: inline-block;
+    float: right;
+    width: auto !important;
+}
+
+.what-svg svg {
+    width: 80%;
+}
+
+.red-link{
+    font-weight: bold;
+    color: #fe0000;
+    text-decoration: none;
+}
+
+.red-link:hover{
+    text-decoration: none;
+    color: #fe0000;
+}
+
+.no-dec{
+    color: unset;
+    text-decoration: none;
+}
+
+.no-dec:hover{
+    text-decoration: none;
+}
