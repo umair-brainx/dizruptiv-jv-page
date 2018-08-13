@@ -11,6 +11,72 @@
     width: 50px;
 }
 
+
+.prizeNumber
+{
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fe0000;
+    display: block;
+}
+
+.prizePrice
+{
+    background-color: #fe0000;
+    display: block;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.39;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.prizetitle
+{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.39;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    display: block;
+    padding-top: 10px;
+}
+
+.prizeBox {
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.coming-soon {
+    position: absolute;
+    top: 0px;
+    height: 100%;
+    left: 0px;
+    width: 100%;
+    object-fit: scale-down;
+    padding: 8%;
+}
+
+.prizesParent {
+    margin: 0px;
+}
+
 @media only screen and (max-width: 600px) {
     .red-heading {
         font-size: 35px !important;
@@ -417,7 +483,7 @@ a:focus{
 }
 
 .lead-prize {
-    padding-bottom: 7%;
+    padding-bottom: 0px;
 }
 
 .pre-launch {
@@ -439,6 +505,7 @@ a:focus{
 .email-here {
     border-radius: 5px;
     background-color: #ffffff;
+    position: relative;
 }
 
 .contact-heading {
