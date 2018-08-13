@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d119d5a0-da8e-454c-b4b8-036b3959d598" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/css/dizruptiv1.1.css" afterPath="$PROJECT_DIR$/css/dizruptiv1.1.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +29,8 @@
       <file leaf-file-name="dizruptiv1.1.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/dizruptiv1.1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="184" column="15" lean-forward="false" selection-start-line="184" selection-start-column="15" selection-end-line="184" selection-end-column="15" />
+            <state relative-caret-position="548">
+              <caret line="101" column="35" lean-forward="false" selection-start-line="101" selection-start-column="35" selection-end-line="101" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -152,12 +150,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534143127938</updated>
       <workItem from="1534143130891" duration="6110000" />
-      <workItem from="1534199139114" duration="3063000" />
+      <workItem from="1534199139114" duration="3223000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9173000" />
+    <option name="totallyTimeSpent" value="9333000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="23" width="1680" height="1027" extended-state="6" />
@@ -243,8 +241,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/dizruptiv1.1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="184" column="15" lean-forward="false" selection-start-line="184" selection-start-column="15" selection-end-line="184" selection-end-column="15" />
+        <state relative-caret-position="548">
+          <caret line="101" column="35" lean-forward="false" selection-start-line="101" selection-start-column="35" selection-end-line="101" selection-end-column="35" />
           <folding />
         </state>
       </provider>
