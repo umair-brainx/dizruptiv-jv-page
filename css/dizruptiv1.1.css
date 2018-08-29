@@ -448,16 +448,19 @@ a:focus{
 
 .widthSixty {
     width: 60%;
+    max-width: 1150px;
     margin: auto;
 }
 
 .widthSeventy {
     width: 70%;
+    max-width: 1150px;
     margin: auto;
 }
 
 .widthNinety {
     width: 90%;
+    max-width: 1150px;
     margin: auto;
 }
 
