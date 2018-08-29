@@ -186,6 +186,9 @@
     height: 154px;
 }
 
+
+
+
 @media only screen and (max-width: 600px) {
     .red-heading {
         font-size: 35px !important;
@@ -687,3 +690,4 @@ a:focus{
 .no-dec:hover{
     text-decoration: none;
 }
+
