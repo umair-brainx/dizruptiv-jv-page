@@ -326,6 +326,7 @@
 
 .widthEighty {
     width: 80%;
+    max-width: 1150px;
     margin: auto;
 }
 
